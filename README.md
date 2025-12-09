@@ -27,5 +27,5 @@ You can move the cursor or navigate through photos using:
 If you have any questions, bugs to report, or feature requests, please contact us via email.  
 (질문이나 버그 제보, 기능 요청이 있으시면 아래 이메일로 연락해 주세요.)
 
-* **Email:** yyoungseo3@gamil.com
+* **Email:** yyoungseo3@gmail.com
 * **GitHub Issues:** [https://github.com/aCafela-coffee/PhotoCulling-Support/issues](https://github.com/aCafela-coffee/PhotoCulling-Support/issues)
